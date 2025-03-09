@@ -39,9 +39,9 @@
 
 ## **🔧 Projects**
 ### **🚀 Featured Repositories**
-💡 **[Drone Flight Executor](https://github.com/joshuaannor/drone-flight-executor)** – Developed AI-enhanced flight patterns with **C++ and Tello SDK**.
+🎮 **[Program 09 (Java Tetris Game)](https://github.com/joshuaannor/projects/tree/main/program09)** – A Java-based Tetris game developed with object-oriented principles and game mechanics.
 
-🔐 **[Cryptography Visualizer](https://github.com/joshuaannor/cryptography-visualizer)** – Web-based tool for **Caesar Cipher & AES encryption**.
+🔐 **[Cryptography Visualizer](https://github.com/joshuaannor/projects/tree/main/cryptography)** – Web-based tool for **Caesar Cipher & AES encryption**, demonstrating cryptographic principles interactively.
 
 ⚙️ **SCADA Automation & Data Processing** – Automating **historian tag extraction and industrial data visualization**.
 
