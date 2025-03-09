@@ -1,21 +1,23 @@
 <h1 align="center">
-  Hey there, I'm Joshua Annor 👋
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0A8FEF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Joshua+Annor+%F0%9F%91%8B">
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=0A8FEF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Software+Engineer+%7C+SCADA+%7C+Automation;🔍+DevOps+%7C+AI-powered+Tools+%7C+Data+Centers;🛠+Python+%7C+Jenkins+%7C+FactoryTalk+%7C+SQL+%7C+React" />
-</p>
 
 ---
 
 ## **📌 About Me**
-- 💻 **Currently Exploring**: SCADA, Automation, DevOps, AI-powered tools, and Data Centers.
-- 🔍 **Looking to Collaborate On**: Industrial automation, AI-driven analytics, and DevOps solutions.
-- 🛠 **Technical Interests**:
-  - 🏭 **SCADA & Automation** – Experience with **FactoryTalk, PLCs, and industrial control systems**.
-  - ☁️ **DevOps & Data Centers** – Building **CI/CD pipelines, cloud infrastructure, and automation scripts**.
-  - 🤖 **AI-Powered Solutions** – Applying **AI to industrial automation and analytics**.
-  - 📊 **Data Visualization & Processing** – Interactive dashboards & automation tools.
+💻 **Tech Enthusiast & Software Engineer** – I’m passionate about solving complex problems across different areas in **software development, automation, DevOps, and data-driven systems**.  
+
+🌍 **Open to Various Roles** – I’m not limited to just one industry; I’m excited to work in **tech spaces where I can apply my skills**, including:  
+- **Software Development** (Backend, Full-Stack, Systems Engineering)  
+- **Automation & DevOps** (SCADA, CI/CD, Infrastructure Optimization)  
+- **Data & Cloud Technologies** (Data Centers, AI Tools, Analytics)  
+- **Cybersecurity & Embedded Systems**  
+
+🔍 **Key Interests**:  
+- 🏭 **SCADA & Industrial Software** – Working with **FactoryTalk, PLCs, and automation**.  
+- ☁️ **Data Centers & Cloud Tech** – Optimizing **server infrastructure, automation, and security**.  
+- 🤖 **AI-Powered Tools** – Leveraging AI to improve **efficiency, monitoring, and automation**.  
+- 🚀 **Software & DevOps** – **CI/CD pipelines, backend development, and deployment automation**.  
 
 ---
 
@@ -51,7 +53,7 @@
 
 ## **📬 Let's Connect!**
 <p align="center">
-  <a href="https://www.linkedin.com/in/joshua-annor/">
+  <a href="https://www.linkedin.com/in/joshuaannor/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/joshuaannor">
