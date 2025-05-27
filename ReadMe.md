@@ -45,9 +45,7 @@
 
 🔐 **[Cryptography Visualizer](https://github.com/joshuaannor/projects/tree/main/cryptography)** – Web-based tool for **Caesar Cipher & AES encryption**, demonstrating cryptographic principles interactively.
 
-⚙️ **SCADA Automation & Data Processing** – Automating **historian tag extraction and industrial data visualization**.
-
-🚀 **Data Center Optimization Tools** – Building **AI-powered monitoring solutions**.
+🚀 **[Data Center Optimization Tools](https://github.com/joshuaannor/ai-data-center-dashboard/tree/main)** – Building **AI-powered monitoring solutions**.
 
 ---
 
