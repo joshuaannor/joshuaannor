@@ -41,7 +41,7 @@
 
 ## **🔧 Projects**
 ### **🚀 Featured Repositories**
-🎮 **[Program 09 (Java Tetris Game)](https://github.com/joshuaannor/projects/tree/main/program09)** – A Java-based Tetris game developed with object-oriented principles and game mechanics.
+🎮 **[Program 09 (Java Tetris Game)](https://github.com/joshuaannor/projects/tree/main/program09](https://github.com/joshuaannor/tetris)** – A Java-based Tetris game developed with object-oriented principles and game mechanics.
 
 🔐 **[Cryptography Visualizer](https://github.com/joshuaannor/Cryptography)** – Web-based tool for **Caesar Cipher & AES encryption**, demonstrating cryptographic principles interactively.
 
